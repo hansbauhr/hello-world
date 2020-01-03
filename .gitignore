@@ -1,3 +1,11 @@
+#IDE files and build tools
+.project
+.classpath
+.factorypath
+.settings/
+.vscode/
+target/
+
 # Compiled class file
 *.class
 
